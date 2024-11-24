@@ -1,1 +1,1 @@
-# Supermall-Customer-Segmentation
+# Shopping Mall-Customer-Segmentation
