@@ -1,7 +1,14 @@
 # Shopping Mall-Customer-Segmentation
 
+![Bivariate Clustering](https://github.com/user-attachments/assets/de42f81e-f022-415f-8312-88c6f8f88b5f)
+
 # Overview
 Customer segmentation is an essential process in marketing and analytics to categorize customers based on shared characteristics. This project employs K-Means Clustering to segment customers into distinct groups based on their Annual Income (in $k) and Spending Score (scale of 1-100).
+
+# Problem Statement
+
+* To understand the Targer customers based on the given customer dataset for the marketing team to plan strategies.
+* To understand and identify the most important shopping groups based on income, age and mall shopping score.
 
 # Project Insights
 The output plot represents a bivariate clustering analysis:
@@ -30,7 +37,7 @@ The output plot represents a bivariate clustering analysis:
   
 ### Visualization:
 
-* Created a scatter plot to display clusters with distinct colors and centroids.
+* Created a scatter plot to display clusters with distinct colors and centroids for Bivariate Clustering.
 
 # Technologies Used
 
@@ -58,7 +65,7 @@ The output plot represents a bivariate clustering analysis:
 
 **README.md:** Project description and details (this file).
 
-#Conclusion
+# Conclusion
 
 This project demonstrates how clustering can uncover valuable insights for customer segmentation. The application of K-Means is a robust approach for analyzing customer data and making data-driven decisions.
 
