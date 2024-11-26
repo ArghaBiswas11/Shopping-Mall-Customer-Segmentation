@@ -35,22 +35,30 @@ The output plot represents a bivariate clustering analysis:
 # Technologies Used
 
 **Language:** Python
+
 **IDE:** Google Colab
 
 # Libraries:
 
 **pandas:** For data manipulation and preprocessing.
+
 **matplotlib:** For data visualization.
+
 **seaborn:** For aesthetic enhancements in visualization.
+
 **scikit-learn:** For implementing the K-Means algorithm.
 
 # Project Structure
 
-Shopping_Mall_Customer_Segmentation.ipynb: Jupyter Notebook containing the code implementation.
-Bivariate Clustering.png: Output visualization of the clusters.
-Shopping_Mall_Customer_Segmentation.csv: Input dataset containing customer information (Annual Income and Spending Score).
-README.md: Project description and details (this file).
+**Shopping_Mall_Customer_Segmentation.ipynb:** Jupyter Notebook containing the code implementation.
 
-Conclusion
+**Bivariate Clustering.png:** Output visualization of the clusters.
+
+**Shopping_Mall_Customer_Segmentation.csv:** Input dataset containing customer information (Annual Income and Spending Score).
+
+**README.md:** Project description and details (this file).
+
+#Conclusion
+
 This project demonstrates how clustering can uncover valuable insights for customer segmentation. The application of K-Means is a robust approach for analyzing customer data and making data-driven decisions.
 
