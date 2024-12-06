@@ -2,15 +2,15 @@
 
 ![Bivariate Clustering](https://github.com/user-attachments/assets/de42f81e-f022-415f-8312-88c6f8f88b5f)
 
-# Overview
+# Overview:
 Customer segmentation is an essential process in marketing and analytics to categorize customers based on shared characteristics. This project employs K-Means Clustering to segment customers into distinct groups based on their Annual Income (in $k) and Spending Score (scale of 1-100).
 
-# Problem Statement
+# Problem Statement:
 
 * To understand the Targer customers based on the given customer dataset for the marketing team to plan strategies.
 * To understand and identify the most important shopping groups based on income, age and mall shopping score.
 
-# Project Insights
+# Project Insights:
 The output plot represents a bivariate clustering analysis:
 
 * The X-axis represents Annual Income (in $k).
@@ -23,7 +23,7 @@ The output plot represents a bivariate clustering analysis:
 * Cluster 4 (Purple): Low-income earners with high spending.
 * The black stars represent the centroids of each cluster, indicating the central tendency of each group.
   
-# Key Features
+# Key Features:
 
 ### Data Preprocessing:
 
@@ -39,7 +39,7 @@ The output plot represents a bivariate clustering analysis:
 
 * Created a scatter plot to display clusters with distinct colors and centroids for Bivariate Clustering.
 
-# Technologies Used
+# Technologies Used:
 
 **Language:** Python
 
@@ -55,7 +55,7 @@ The output plot represents a bivariate clustering analysis:
 
 **scikit-learn:** For implementing the K-Means algorithm.
 
-# Project Structure
+# Project Structure:
 
 **Shopping_Mall_Customer_Segmentation.ipynb:** Jupyter Notebook containing the code implementation.
 
@@ -65,7 +65,7 @@ The output plot represents a bivariate clustering analysis:
 
 **README.md:** Project description and details (this file).
 
-# Conclusion
+# Conclusion:
 
 This project demonstrates how clustering can uncover valuable insights for customer segmentation. The application of K-Means is a robust approach for analyzing customer data and making data-driven decisions.
 
